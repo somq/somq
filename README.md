@@ -1,16 +1,15 @@
-### Hi there 👋
+### Creating 🪄 and sometimes fixing 🪠 (I lied it's very often)
 
-<!--
-**somq/somq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Hi there! I build apps for a living but maybe one day I will be building houses instead. Who knows?
 
-Here are some ideas to get you started:
+#### Working on 🏎️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on An IoT solution with proprietary protocols over BLE, backend on AWS ,  web & mobile apps in Angular/Ionic
+
+#### Learning 🤯
+
+I’m currently learning Blockchain! Trust block, trust other block. 
+
+#### Let's talk! 📭
+
+Feel free to [reach me](mailto:contact.makeitappn@gmail.com) to collaborate. I'm always open to interesting ideas!  
