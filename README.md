@@ -4,12 +4,12 @@
 
 #### Working on 🏎️
 
-I’m currently working on An IoT solution with proprietary protocols over BLE, backend on AWS ,  web & mobile apps in Angular/Ionic
+I’m currently working on An IoT solution with proprietary protocols over BLE, backend on AWS ,  web & mobile apps in Angular/Ionic.
 
 #### Learning 🤯
 
-I’m currently learning Blockchain! Trust block, trust other block. 
+I’m currently learning Blockchain! Trust block, trust other block.
 
 #### Let's talk! 📭
 
-Feel free to [reach me](mailto:contact.makeitappn@gmail.com) to collaborate. I'm always open to interesting ideas!  
+I'm always open to interesting ideas! Feel free to [reach me](mailto:contact.makeitappn@gmail.com) to collaborate.
